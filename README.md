@@ -11,7 +11,7 @@ This a browser game of tic-tac-toe
 ## How to install:
 
 - Clone the repository
-- Open the index.js file in a web browser
+- Open the `index.js` file in a web browser
 - Play the game with a partner 'X' goes first
 
 ## Improvements:
