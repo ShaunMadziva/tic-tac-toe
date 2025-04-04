@@ -2,7 +2,7 @@
 
 ## Description:
 
-This a browser game of tic-tac-toe
+This a browser game of tic-tac-toe made by [Olena](https://github.com/babussia) and [Shaun](https://github.com/ShaunMadziva)
 
 [Play the game](https://shaunmadziva.github.io/tic-tac-toe/)
 
