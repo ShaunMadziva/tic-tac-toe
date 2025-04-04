@@ -1,13 +1,19 @@
 # Tic-Tac-Toe Game
 
-## Plan:
+## Description:
 
-- 3 x 3 grid
-- Make Your Mark
-- Take Turns “X” and “O”
-- Win Logic: align 3 in a row, in a column, or diagonally
-- Declare a Tie
-- The Game is Finished
+This a browser game of tic-tac-toe
+
+[This is a hyperlink](https://www.bbc.co.uk)
+
+![insert an image](./assets/game.png "tic-tac-toe grid")
+
+## how to install:
+
+- Clone the repository
+- Open the index.js file in a web browser
+- Play the game with a partner 'X' goes first
+ 
 
 ## Improvements:
 
