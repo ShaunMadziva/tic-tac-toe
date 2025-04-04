@@ -20,12 +20,14 @@ const messages = document.querySelector("h2");
 
 /*----- event listeners -----*/
 document.getElementById("board").addEventListener("click", handleTurn);
-document.getElementById('reset-button').addEventListener('click', init);
+document.getElementById("reset-button").addEventListener("click", init);
 
 /*----- functions -----*/
 
 function init() {
   board = ["", "", "", "", "", "", "", "", ""];
+  messages.textContent = `It's ${turn}'s turn!`;
+  win = null;
   render();
 }
 
@@ -68,5 +70,3 @@ function getWinner() {
   });
   return winner ? winner : board.includes("") ? null : "T";
 }
-
-
