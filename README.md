@@ -4,16 +4,15 @@
 
 This a browser game of tic-tac-toe
 
-[This is a hyperlink](https://www.bbc.co.uk)
+[Play the game](https://shaunmadziva.github.io/tic-tac-toe/)
 
 ![insert an image](./assets/game.png "tic-tac-toe grid")
 
-## how to install:
+## How to install:
 
 - Clone the repository
 - Open the index.js file in a web browser
 - Play the game with a partner 'X' goes first
- 
 
 ## Improvements:
 
